@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="857eb8c4-0fad-4b81-b508-24175eb2d23b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Fotor Batch/homepagesilde1.jpg" afterPath="$PROJECT_DIR$/img/Fotor Batch/homepagesilde1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Fotor Batch/homepagesilde2.jpg" afterPath="$PROJECT_DIR$/img/Fotor Batch/homepagesilde2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Fotor Batch/homepagesilde3.jpg" afterPath="$PROJECT_DIR$/img/Fotor Batch/homepagesilde3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/homepagesilde2.jpg" afterPath="$PROJECT_DIR$/img/homepagesilde2.jpg" />
-    </list>
+    <list default="true" id="857eb8c4-0fad-4b81-b508-24175eb2d23b" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -23,8 +18,17 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding />
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#4929#4934#0" expanded="true" />
+                <element signature="e#7880#7886#1" expanded="true" />
+                <element signature="e#8039#8045#1" expanded="true" />
+                <element signature="e#8203#8209#1" expanded="true" />
+                <element signature="e#8397#8403#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -34,16 +38,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="5855" column="17" lean-forward="false" selection-start-line="5855" selection-start-column="17" selection-end-line="5855" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -72,9 +66,6 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1280" />
@@ -124,6 +115,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -214,8 +206,17 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#4929#4934#0" expanded="true" />
+            <element signature="e#7880#7886#1" expanded="true" />
+            <element signature="e#8039#8045#1" expanded="true" />
+            <element signature="e#8203#8209#1" expanded="true" />
+            <element signature="e#8397#8403#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
